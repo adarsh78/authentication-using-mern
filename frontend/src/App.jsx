@@ -1,8 +1,8 @@
 import React from 'react'
 import { Routes, Route, Navigate } from "react-router-dom";
-import Login from "./Components/Login"
-import Home from "./Components/Home"
-import SignUp from "./Components/SignUp"
+import Login from "./Pages/Login"
+import Home from "./Pages/Home"
+import SignUp from "./Pages/SignUp"
 
 const App = () => {
   return (
